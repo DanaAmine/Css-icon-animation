@@ -86,10 +86,5 @@ ul li .title{
 }
 ul li:hover .title{
     transform: scale(1);
-    transition-delay: 0.25;
 }
-
-    ul li:hover{
-        transform: translateY(-5px);
-    }
 
