@@ -85,6 +85,6 @@ ul li .title{
     transition-delay: 0;
 }
 ul li:hover .title{
-    transform: scale(1);
+    transform: scale(2);
 }
 
